@@ -1,0 +1,12 @@
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\MVCEntity.dll.config
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\MVCEntity.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\MVCEntity.pdb
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\EntityFramework.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\EntityFramework.xml
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\obj\Debug\MVCEntity.csproj.AssemblyReference.cache
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\obj\Debug\MVCEntity.csproj.CoreCompileInputs.cache
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\obj\Debug\MVCEntity.csproj.CopyComplete
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\obj\Debug\MVCEntity.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCEntity\obj\Debug\MVCEntity.pdb

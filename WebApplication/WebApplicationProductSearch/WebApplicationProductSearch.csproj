@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Layui\css\layui.css" />
+    <None Include="wwwroot\Layui\css\modules\code.css" />
+    <None Include="wwwroot\Layui\css\modules\laydate\default\laydate.css" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\icon-ext.png" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\icon.png" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\layer.css" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\loading-0.gif" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\loading-1.gif" />
+    <None Include="wwwroot\Layui\css\modules\layer\default\loading-2.gif" />
+    <None Include="wwwroot\Layui\font\iconfont.eot" />
+    <None Include="wwwroot\Layui\font\iconfont.svg" />
+    <None Include="wwwroot\Layui\font\iconfont.ttf" />
+    <None Include="wwwroot\Layui\font\iconfont.woff" />
+    <None Include="wwwroot\Layui\font\iconfont.woff2" />
+    <None Include="wwwroot\Layui\layui.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngularJS.Core" Version="1.8.2" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="7.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="4.9.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVCEntity\MVCEntity.csproj" />
+    <ProjectReference Include="..\MVCLogic\MVCLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Scripts\" />
+  </ItemGroup>
+
+</Project>

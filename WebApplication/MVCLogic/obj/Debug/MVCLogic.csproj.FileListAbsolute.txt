@@ -1,0 +1,17 @@
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCLogic.dll.config
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCLogic.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCLogic.pdb
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\EntityFramework.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCEntity.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\Newtonsoft.Json.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCEntity.pdb
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\MVCEntity.dll.config
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\EntityFramework.xml
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\bin\Debug\Newtonsoft.Json.xml
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\obj\Debug\MVCLogic.csproj.AssemblyReference.cache
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\obj\Debug\MVCLogic.csproj.CoreCompileInputs.cache
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\obj\Debug\MVCLogic.csproj.CopyComplete
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\obj\Debug\MVCLogic.dll
+D:\test code\Web00\WebApplicationProductSearch\MVCLogic\obj\Debug\MVCLogic.pdb

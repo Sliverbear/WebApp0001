@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplicationProductSearch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplicationProductSearch.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\layui.css",
+      "PackagePath": "staticwebassets\\Layui\\css\\layui.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\code.css",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\code.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\laydate\\default\\laydate.css",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\laydate\\default\\laydate.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\icon-ext.png",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\icon-ext.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\icon.png",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\icon.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\layer.css",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\layer.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\loading-0.gif",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\loading-0.gif"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\loading-1.gif",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\loading-1.gif"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\css\\modules\\layer\\default\\loading-2.gif",
+      "PackagePath": "staticwebassets\\Layui\\css\\modules\\layer\\default\\loading-2.gif"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\font\\iconfont.eot",
+      "PackagePath": "staticwebassets\\Layui\\font\\iconfont.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\font\\iconfont.svg",
+      "PackagePath": "staticwebassets\\Layui\\font\\iconfont.svg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\font\\iconfont.ttf",
+      "PackagePath": "staticwebassets\\Layui\\font\\iconfont.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\font\\iconfont.woff",
+      "PackagePath": "staticwebassets\\Layui\\font\\iconfont.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\font\\iconfont.woff2",
+      "PackagePath": "staticwebassets\\Layui\\font\\iconfont.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\Layui\\layui.js",
+      "PackagePath": "staticwebassets\\Layui\\layui.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\Picture\\Forest.jpg",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\Picture\\Forest.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\animate.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\style.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\style.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\themify-icons\\themify.eot",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\themify-icons\\themify.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\themify-icons\\themify.svg",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\themify-icons\\themify.svg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\themify-icons\\themify.ttf",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\themify-icons\\themify.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\fonts\\themify-icons\\themify.woff",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\fonts\\themify-icons\\themify.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\main.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\main.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\LoginPageStatic\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\LoginPageStatic\\js\\respond.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\cf.errors.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\cf.errors.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\css2.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\css2.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\css\\style.css",
+      "PackagePath": "staticwebassets\\aboutMestatic\\css\\style.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\file\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\file\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\file\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\file\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\file\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\file\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\file\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\file\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0r.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0r.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguP.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguP.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJbecmNE.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJbecmNE.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJfecg.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJnecmNE.woff2",
+      "PackagePath": "staticwebassets\\aboutMestatic\\font\\pxiEyp8kv8JHgFVrJJnecmNE.woff2"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\browser-bar.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\browser-bar.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-browser.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-browser.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-cloud.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-cloud.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-error.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-error.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-horizontal-arrow.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-horizontal-arrow.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-ok.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-ok.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-icon-server.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-icon-server.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-no-screenshot-error.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-no-screenshot-error.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\cf-no-screenshot-warn.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\cf-no-screenshot-warn.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\close.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\close.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\icon-exclamation.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\icon-exclamation.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\loading.gif",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\loading.gif"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\next.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\next.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\image\\prev.png",
+      "PackagePath": "staticwebassets\\aboutMestatic\\image\\prev.png"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\contact.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\email-decode.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\email-decode.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\main.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\main.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\rocket-loader.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\rocket-loader.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\typed.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\typed.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\aboutMestatic\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\Bill Gate.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\Bill Gate.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\SteveJob.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\SteveJob.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\TedBear.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\TedBear.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\aboutMestatic\\picture\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\aboutMestatic\\picture\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\angular-1.8.2\\angular-animate.js",
+      "PackagePath": "staticwebassets\\angular-1.8.2\\angular-animate.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\angular-1.8.2\\angular-cookies.js",
+      "PackagePath": "staticwebassets\\angular-1.8.2\\angular-cookies.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\angular-1.8.2\\angular-route.js",
+      "PackagePath": "staticwebassets\\angular-1.8.2\\angular-route.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\angular-1.8.2\\angular.js",
+      "PackagePath": "staticwebassets\\angular-1.8.2\\angular.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\angular-1.8.2\\angular.min.js",
+      "PackagePath": "staticwebassets\\angular-1.8.2\\angular.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\test code\\Web00\\WebApplicationProductSearch\\WebApplicationProductSearch\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplicationProductSearch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplicationProductSearch.props",
+      "PackagePath": "build\\WebApplicationProductSearch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationProductSearch.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationProductSearch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationProductSearch.props",
+      "PackagePath": "buildTransitive\\WebApplicationProductSearch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
